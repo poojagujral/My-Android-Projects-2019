@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="my_poems">My Poems</string>
+    <string name="i_love_you_cookie">I love you, Cookie!</string>
+</resources>
