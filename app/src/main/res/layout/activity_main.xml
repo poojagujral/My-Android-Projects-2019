@@ -28,7 +28,7 @@
         android:layout_marginRight="144dp"
         android:layout_marginBottom="110dp"
         android:background="@color/yellow"
-        android:text="click"
+        android:text="enter"
         android:textColor="@color/blue"
         android:textSize="20dp" />
 
