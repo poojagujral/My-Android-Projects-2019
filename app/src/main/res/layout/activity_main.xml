@@ -65,7 +65,7 @@
         android:layout_alignEnd="@+id/ed1"
         android:layout_marginTop="14dp"
         android:layout_marginEnd="0dp"
-        android:ems="10"
+        android:ems="9"
         android:hint="Password (Numeric)"
         android:inputType="numberPassword" />
 
